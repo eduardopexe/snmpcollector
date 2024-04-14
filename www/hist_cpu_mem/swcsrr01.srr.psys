@@ -1,0 +1,11 @@
+1302895464;;swcsrr01.srr.psys;5;cpuok;mem ok;43;16;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys;cpu avg;cpu avg;5;5;5;;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys_2;mem_free;I/O;2361096;2361096;2361096;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys_2;mem_util;I/O;1825016;1825016;1825016;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys_2;pct_util;I/O;43;43;43;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys_16;mem_free;Drivertext;1048536;1048536;1048536;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys_16;mem_util;Drivertext;40;40;40;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys_16;pct_util;Drivertext;0;0;0;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys_1;mem_free;Processor;34899648;34908396;34899648;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys_1;mem_util;Processor;6864200;6855452;6864200;
+1302895464;swcsrr01.srr.psys;swcsrr01.srr.psys_1;pct_util;Processor;16;16;16;

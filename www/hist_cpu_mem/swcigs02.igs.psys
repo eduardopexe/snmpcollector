@@ -1,0 +1,8 @@
+1302895667;;swcigs02.igs.psys;0;cpuok;mem ok;15;8;
+1302895667;swcigs02.igs.psys;swcigs02.igs.psys;cpu avg;cpu avg;0;0;0;;
+1302895667;swcigs02.igs.psys;swcigs02.igs.psys_1;mem_free;Processor;51776288;51776296;51776296;
+1302895667;swcigs02.igs.psys;swcigs02.igs.psys_1;mem_util;Processor;4604032;4604016;4604028;
+1302895667;swcigs02.igs.psys;swcigs02.igs.psys_1;pct_util;Processor;8;8;8;
+1302895667;swcigs02.igs.psys;swcigs02.igs.psys_2;mem_free;I/O;7079000;7079000;7079000;
+1302895667;swcigs02.igs.psys;swcigs02.igs.psys_2;mem_util;I/O;1309608;1309608;1309608;
+1302895667;swcigs02.igs.psys;swcigs02.igs.psys_2;pct_util;I/O;15;15;15;

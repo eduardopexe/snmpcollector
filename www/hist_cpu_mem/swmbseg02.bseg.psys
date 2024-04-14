@@ -1,0 +1,8 @@
+1302895606;;swmbseg02.bseg.psys;5;cpuok;mem ok;69;35;
+1302895606;swmbseg02.bseg.psys;swmbseg02.bseg.psys;cpu avg;cpu avg;5;5;5;;
+1302895606;swmbseg02.bseg.psys;swmbseg02.bseg.psys_1;mem_free;Processor;49673536;49673516;49673572;
+1302895606;swmbseg02.bseg.psys;swmbseg02.bseg.psys_1;mem_util;Processor;27054888;27054908;27054852;
+1302895606;swmbseg02.bseg.psys;swmbseg02.bseg.psys_1;pct_util;Processor;35;35;35;
+1302895606;swmbseg02.bseg.psys;swmbseg02.bseg.psys_2;mem_free;I/O;3857524;3857524;3857524;
+1302895606;swmbseg02.bseg.psys;swmbseg02.bseg.psys_2;mem_util;I/O;8717196;8717196;8717196;
+1302895606;swmbseg02.bseg.psys;swmbseg02.bseg.psys_2;pct_util;I/O;69;69;69;

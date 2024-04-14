@@ -1,0 +1,11 @@
+1302895697;;swcblm02.blm.psys;1;cpuok;mem ok;11;5;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys;cpu avg;cpu avg;1;1;2;;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys_1;mem_free;Processor;780771912;780769200;780768940;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys_1;mem_util;Processor;42232836;42235548;42235808;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys_1;pct_util;Processor;5;5;5;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys_13;mem_free;Transient;16754516;16754516;16754516;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys_13;mem_util;Transient;22700;22700;22700;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys_13;pct_util;Transient;0;0;0;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys_2;mem_free;I/O;59070864;59068320;59068320;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys_2;mem_util;I/O;8038000;8040544;8040544;
+1302895697;swcblm02.blm.psys;swcblm02.blm.psys_2;pct_util;I/O;11;11;11;

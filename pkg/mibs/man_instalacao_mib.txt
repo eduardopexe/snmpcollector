@@ -1,0 +1,22 @@
+exemplo de instalacao mib
+
+copiar mib para o diretorio de mibs
+
+/usr/share/snmp/mibs
+
+exemplo
+
+cp CISCO-RTTMON-MIB.my CISCO-RTTMON-MIB.txt  
+cp CISCO-SMI.my CISCO-SMI.txt    
+cp CISCO-SNMP-FRAMEWORK-CAPABILITY.my CISCO-SNMP-FRAMEWORK-CAPABILITY.txt 
+cp CISCO-TC.my CISCO-TC.txt
+
+####################################
+
+depois adcionar ao conf
+aecho "mibs +CISCO-PING-MIB" >> /etc/snmp/snmpd.conf
+echo "mibs +CISCO-RTTMON-MIB" >> /etc/snmp/snmpd.conf
+echo "mibs +CISCO-SMI" >> /etc/snmp/snmpd.conf
+echo "mibs +CISCO-SNMP-FRAMEWORK-CAPABILITY" >> /etc/snmp/snmpd.conf
+echo "mibs +CISCO-TC" >> /etc/snmp/snmpd.conf
+echo "mibs +TUNNEL-MIB" >> /etc/snmp/snmpd.conf

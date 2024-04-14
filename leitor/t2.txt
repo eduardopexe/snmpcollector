@@ -1,0 +1,16 @@
+mcbru01.bru.psys_Serial0/0/0.361;!mcbru01;Serial0/0/0.361;rtt;10.32.37.3;!;;
+swmpat01.pat.psys_Vlan2;!swmpat01;Vlan2;rtt;10.33.66.129;!;;
+mclda01.lda.psys_0/0/1;!mclda01.lda.psys;0/0/1;snmpb;mclda01.lda.psys;10.32.62.3;;!;;
+mcpaa03.paa.psys_MF12.333;!mcpaa03;MF12.333;rtt;10.32.92.4;!;;
+mcrpo06.rpo.psys_Serial1/0:0.316;!mcrpo06;Serial1/0:0.316;rtt;10.32.36.6;!;;
+swmscec01.scec.psys_Vlan2;!swmscec01;Vlan2;rtt;10.33.66.130;!;;
+mcsjc01.sjc.psys_10.32.43.3;!mcsjc01.sjc.psys;10.32.43.3;snmpa;mcsjc01.sjc.psys;10.32.43.3;;!;;
+mcpga01.pga.psys_0/1/1:0;!mcpga01.pga.psys;0/1/1:0;snmpb;mcpga01.pga.psys;10.32.61.3;;!;;
+mbigs01.igs.psys_Serial1/2:0.315;!mbigs01;Serial1/2:0.315;rtt;10.32.17.3;!;;
+swmmbi01.mbi.psys_Vlan2;!swmmbi01;Vlan2;rtt;10.32.76.3;!;;
+mcigs04.igs.psys_10.33.17.69;!mcigs04.igs.psys;10.33.17.69;snmpa;mcigs04.igs.psys;10.32.17.5;;!;;
+mccas04.cas.psys_ATM1/0.131;!mccas04;ATM1/0.131;rtt;10.32.28.4;!;;
+swmpoc01.poc.psys_Vlan2;!swmpoc01;Vlan2;rtt;10.250.224.63;!;;
+swmigs01.igs.psys_Vlan2;!swmigs01;Vlan2;rtt;172.24.82.172;!;;
+mbmbi01.mbi.psys_Serial4/4:0.363;!mbmbi01;Serial4/4:0.363;rtt;10.32.24.3;!;;
+swmnct01.nct.psys_Vlan2;!swmnct01;Vlan2;rtt;10.32.13.4;!;;

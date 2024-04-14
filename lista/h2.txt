@@ -1,0 +1,2 @@
+mcplt01.plt.psys;10.32.64.3;
+mbmbi01.mbi.psys;10.32.24.3

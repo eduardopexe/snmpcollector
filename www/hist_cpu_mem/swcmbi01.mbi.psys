@@ -1,0 +1,8 @@
+1302895715;;swcmbi01.mbi.psys;1;cpuok;mem ok;13;8;
+1302895715;swcmbi01.mbi.psys;swcmbi01.mbi.psys;cpu avg;cpu avg;1;1;1;;
+1302895715;swcmbi01.mbi.psys;swcmbi01.mbi.psys_2;mem_free;I/O;7296780;7296780;7296780;
+1302895715;swcmbi01.mbi.psys;swcmbi01.mbi.psys_2;mem_util;I/O;1096548;1096548;1096548;
+1302895715;swcmbi01.mbi.psys;swcmbi01.mbi.psys_2;pct_util;I/O;13;13;13;
+1302895715;swcmbi01.mbi.psys;swcmbi01.mbi.psys_1;mem_free;Processor;51599284;51599256;51599300;
+1302895715;swcmbi01.mbi.psys;swcmbi01.mbi.psys_1;mem_util;Processor;4560340;4560528;4560316;
+1302895715;swcmbi01.mbi.psys;swcmbi01.mbi.psys_1;pct_util;Processor;8;8;8;
